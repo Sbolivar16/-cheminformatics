@@ -1,5 +1,5 @@
-Datamol-based-tools
-Datamol Tools is a repository dedicated to providing Datamol-based tools for the analysis of chemical databases and molecules for computer-aided drug design. Stay tuned for updates on new tools and scripts! Datamol Tools This repository contains a collection of tools built with Datamol, a Python package for molecular descriptor calculation. The tools are designed to facilitate the analysis of chemical databases and aid in the design of computer-assisted drug discovery.
+
+Cheminformatics is a repository dedicated to providing Datamol-based tools and others for the analysis of chemical databases and molecules for computer-aided drug design. Stay tuned for updates on new tools and scripts! Datamol Tools This repository contains a collection of tools built with Datamol, a Python package for molecular descriptor calculation. The tools are designed to facilitate the analysis of chemical databases and aid in the design of computer-assisted drug discovery.
 
 Installation To install Datamol and the tools, clone this repository and run the following command in your terminal:
 
