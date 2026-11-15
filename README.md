@@ -1,16 +1,36 @@
+<div align="center">
 
-Cheminformatics is a repository dedicated to providing Datamol-based tools and others for the analysis of chemical databases and molecules for computer-aided drug design. Stay tuned for updates on new tools and scripts! Datamol Tools This repository contains a collection of tools built with Datamol, a Python package for molecular descriptor calculation. The tools are designed to facilitate the analysis of chemical databases and aid in the design of computer-assisted drug discovery.
+# 🧪 Cheminformatics & Chemical Space Tools
 
-Installation To install Datamol and the tools, clone this repository and run the following command in your terminal:
+**Google Colab Workflows for Molecular Descriptors, Format Conversion, and Chemical Space Profiling**
 
-Copy code pip install -r requirements.txt
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/-cheminformatics/blob/main/DatamolMolecularDescriptor.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3772--7604-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3772-7604)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sbolivar16.github.io-0ea5e9)](https://sbolivar16.github.io)
 
-Alternatively, if you do not want to install the package locally, you can use the provided notebooks in the notebooks directory or run them in Google Colab.
+</div>
 
-Usage Each tool is contained in a separate Python script located in the tools directory. Simply navigate to the directory and run the desired script:
+---
 
-If you would like to contribute to Datamol Tools, please create a pull request. Suggestions for new tools or improvements to existing ones are welcome.
+## Overview
 
-License This project is licensed under the MIT License - .
+A curated collection of **Google Colab** cheminformatics notebooks built with **Datamol**, **RDKit**, and **OpenBabel** for chemical library curation, molecular descriptor calculation, and chemical space exploration in computer-aided drug design (CADD).
 
-Contact For any questions or suggestions, please contact the author at sbolivar16@outlook.com.
+---
+
+## Notebooks
+
+| Notebook | Purpose | Launch |
+| :--- | :--- | :---: |
+| `DatamolMolecularDescriptor.ipynb` | Molecular descriptor calculation & standardization using **Datamol** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/-cheminformatics/blob/main/DatamolMolecularDescriptor.ipynb) |
+| `chemicalspace.ipynb` | Dimensionality reduction & chemical space visualization for compound libraries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/-cheminformatics/blob/main/chemicalspace.ipynb) |
+| `Optimus_Chemical_Analyzer2.ipynb` | Physicochemical profiling & drug-likeness screening | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/-cheminformatics/blob/main/Optimus_Chemical_Analyzer2.ipynb) |
+| `Openbabel.ipynb` | Chemical file format conversions, 3D conformer generation & protonation with **OpenBabel** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/-cheminformatics/blob/main/Openbabel.ipynb) |
+
+---
+
+## Author
+
+**Santiago Bolívar Ávila, Ph.D.**  
+[ORCID](https://orcid.org/0000-0002-3772-7604) · [ResearchGate](https://www.researchgate.net/profile/Santiago-Bolivar-Avila) · [Portfolio](https://sbolivar16.github.io) · `sbolivar16@outlook.com`
