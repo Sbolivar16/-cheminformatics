@@ -33,4 +33,4 @@ A curated collection of **Google Colab** cheminformatics notebooks built with **
 ## Author
 
 **Santiago Bolívar Ávila, Ph.D.**  
-[ORCID](https://orcid.org/0000-0002-3772-7604) · [ResearchGate](https://www.researchgate.net/profile/Santiago-Bolivar-Avila) · [Portfolio](https://sbolivar16.github.io) · `sbolivar16@outlook.com`
+[ORCID](https://orcid.org/0000-0002-3772-7604) · [ResearchGate](https://www.researchgate.net/profile/Santiago-Bolivar-Avila) · [Portfolio](https://sbolivar16.github.io) · `sbolivaravila16@gmail.com`
